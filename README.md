@@ -25,7 +25,11 @@ Goods transported over long distances are vulnerable to environmental damage and
 - RF modules
 - Environmental and motion sensors
 
-📌 *(Add block diagram image here)*
+## System Block Diagram
+![Block Diagram](circuitdiagram.png)
+
+## Output
+![Output](assets/)
 
 
 ---
