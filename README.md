@@ -26,7 +26,7 @@ Goods transported over long distances are vulnerable to environmental damage and
 - Environmental and motion sensors
 
 ## System Block Diagram
-![Block Diagram](assets/image.png)
+![Block Diagram](assets/image)
 
 ## Output
 ![Output](assets/)
