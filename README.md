@@ -46,7 +46,7 @@ Goods transported over long distances are vulnerable to environmental damage and
 - Continuous real-time monitoring
 - Automated alert system
 - Improved safety and quality assurance during transport
-
+- This project demonstrates end-to-end embedded system design, including sensor interfacing, communication protocols, and real-time alerting.
 ---
 
 ## Applications
